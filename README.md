@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/renancardosopj/b3b833b9-6bd1-474f-a8e2-bd0d83931012/69d1b374-60b0-4a5f-83b9-5f177f63c304/_apis/work/boardbadge/e014c15b-2cb6-4722-9f0e-18f9288fec14)](https://dev.azure.com/renancardosopj/b3b833b9-6bd1-474f-a8e2-bd0d83931012/_boards/board/t/69d1b374-60b0-4a5f-83b9-5f177f63c304/Microsoft.RequirementCategory)
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
