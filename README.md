@@ -1,35 +1,15 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
+## :dart: Goal
+Understand the basic concepts and practices of Distributed Version Control commands using Git/Github.
+What did I learn?
+- Understanding repositories
+- Create new branchs
+- Peform changes with commits
+- Apply Pull Request
 
-# Introduction to GitHub
+## :pushpin: Description
+Git/GithHub Training with step by step of an example basic.
 
-_Get started using GitHub in less than an hour._
-
-<!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
-<!--step0
-
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
-
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course is four steps long and takes less than one hour to complete.
-
-## How to start this course
-
+##  :computer: Step by step
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
 2. In the new tab, follow the prompts to create a new repository.
@@ -38,18 +18,10 @@ People use GitHub to build some of the most advanced technologies in the world. 
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-endstep0-->
-
-<!-- 
-  <<< Author notes: Step 1 >>> 
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
 -->
 
 <details id=1>
-<summary><h2>Step 1: Create a branch</h2></summary>
+<summary><h3>Step 1: Create a branch</h3></summary>
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
@@ -86,7 +58,7 @@ On additional branches, you can make edits without impacting the `main` version.
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h3>Step 2: Commit a file</h3></summary>
 
 _You created a branch! :tada:_
 
@@ -127,7 +99,7 @@ The following steps will guide you through the process of committing a change on
 -->
 
 <details id=3>
-<summary><h2>Step 3: Open a pull request</h2></summary>
+<summary><h3>Step 3: Open a pull request</h3></summary>
 
 _Nice work making that commit :sparkles:_
 
@@ -168,9 +140,7 @@ You may have noticed after your commit that a message displayed indicating your 
 -->
 
 <details id=4>
-<summary><h2>Step 4: Merge your pull request</h2></summary>
-
-_Nicely done friend! :sunglasses:_
+<summary><h3>Step 4: Merge your pull request</h3></summary>
 
 You successfully created a pull request. You can now merge your pull request.
 
@@ -197,44 +167,16 @@ As noted in the previous step, you may have seen evidence of an action running w
 -->
 
 <details id=X open>
-<summary><h2>Finish</h2></summary>
+<summary><h3>Finish</h3></summary>
 
 _Congratulations friend, you've completed this course and joined the world of developers!_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+## :triangular_flag_on_post: Requirements
+Nenhum.
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-  If you'd like to make a profile README, use the simplified instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-  1. Make a new public repository with a name that matches your GitHub username.
-  2. Create a file named `README.md` in it's root. The "root" means not inside any folder in your repository.
-  3. Edit the contents of the `README.md` file.
-  4. If you created a new branch for your file, open and merge a pull request on your branch.
-  5. We'd love to see your new profile! Share your profile on social media and tag us!
-  6. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-
-Check out these resources to learn more or get involved:
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
+## :link: Links
+- [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-</details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
